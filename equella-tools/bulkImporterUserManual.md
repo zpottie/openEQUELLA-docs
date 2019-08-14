@@ -10,7 +10,7 @@
 
 [CSV FILE FORMAT](#csv-file-format)
 
-[RUNNING THE IMPORT](running-the-import)
+[RUNNING THE IMPORT](#running-the-import)
 
 [APPENDICES](#appendices)
 
